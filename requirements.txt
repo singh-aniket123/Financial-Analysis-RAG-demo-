@@ -1,0 +1,12 @@
+streamlit
+yfinance
+pandas
+numpy
+scikit-learn
+matplotlib
+feedparser
+chromadb
+sentence-transformers
+pypdf
+sec-edgar-downloader
+openai
